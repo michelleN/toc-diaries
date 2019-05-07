@@ -1,1 +1,1 @@
-# toc-journal
+# toc-diaries
